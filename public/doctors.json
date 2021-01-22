@@ -1,0 +1,5 @@
+[
+    {"id":1,"fname":"Tony","lname":"Stark","specialization":"Cardiologist"},
+    {"id":2,"fname":"Bruce","lname":"Banner","specialization":"Physician"},
+    {"id":3,"fname":"Steve","lname":"Rogers","specialization":"Opthalmologist"}
+]
